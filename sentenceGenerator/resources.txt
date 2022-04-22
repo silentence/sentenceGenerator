@@ -1,0 +1,4 @@
+https://stackoverflow.com/questions/53191013/how-can-i-add-quotation-marks-to-a-libreoffice-calc-cell-text
+https://www.extendoffice.com/documents/excel/2871-excel-add-comma-at-end-of-cell.html
+https://crates.io/crates/rand
+https://rust-lang-nursery.github.io/rust-cookbook/algorithms/randomness.html 
